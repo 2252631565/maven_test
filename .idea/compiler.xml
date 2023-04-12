@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="son_03" />
         <module name="son_02" />
         <module name="son_01" />
       </profile>
@@ -14,6 +15,7 @@
       <module name="maven_test_01" target="1.8" />
       <module name="son_01" target="1.8" />
       <module name="son_02" target="1.8" />
+      <module name="son_03" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

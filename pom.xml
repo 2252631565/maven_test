@@ -17,6 +17,7 @@
     <modules>
         <module>son_01</module>
         <module>son_02</module>
+        <module>son_03</module>
     </modules>
 
     <dependencies>
